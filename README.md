@@ -1,2 +1,2 @@
 # devops-a4-task
-pull requests
+everone raise the pull requests with your feature branches
